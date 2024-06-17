@@ -30,7 +30,7 @@ const Navbar=() =>{
             <button>Join Us</button>
             </div>
 
-            
+           
             <img src="/Images/recycle.png"/>
             
 
