@@ -1,22 +1,16 @@
 import LandingPage from "./LandingPage"
-import About from "./About";
+import About from "./About"
+import Team from "./Team"
+import Mission from "./Mission"
 
 const App = () =>{
   return(
     <div>
       <LandingPage/>
       <About/>
+      <Team/>
+      <Mission/>
     </div>
   )
 }
-import Team from "./Team";
-
-const   App = () =>{
-return(
-  <div>
-
-    <Team/>
-  </div>
-)
-}
-export default App;
+export default App
